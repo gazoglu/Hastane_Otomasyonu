@@ -1,0 +1,1 @@
+Data Source=DESKTOP-0AM9SUH\\SQLEXPRESS;Initial Catalog=HASTANEPROJE;Integrated Security=True
